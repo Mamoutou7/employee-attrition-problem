@@ -1,0 +1,3 @@
+root - INFO - Loading config.json for getting path variables
+root - INFO - Reading the training dataset
+root - INFO - Saving the model in saving_model_path
